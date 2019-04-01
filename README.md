@@ -1,1 +1,3 @@
-css-specificity
+#CSS Specificity
+
+CSS파일을 페이지에서 스타일 시트 및 스타일 블록을 찾고, 쉽게 검사 할 수 있도록 선언을 그룹화하여 시각적으로 보여줍니다.
